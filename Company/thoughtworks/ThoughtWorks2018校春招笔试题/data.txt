@@ -1,0 +1,10 @@
+0 plane1 1 1 1
+0 plane2 1 1 1
+1 plane1 1 1 1 1 2 3
+2 plane1 2 3 4 1 1 1
+1 plane2 1 1 1 1 2 3
+2 plane2 2 3 4 1 1 1
+3 plane1 3 4 5
+4 plane1 1 1 1 1 2 3
+3 plane2 3 4 5 1 2 1
+4 plane2 4 6 6 1 1 1
