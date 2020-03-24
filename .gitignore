@@ -2,3 +2,4 @@
 *javac
 *.pyc
 *.class
+*.out

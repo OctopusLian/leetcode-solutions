@@ -1,3 +1,5 @@
+# This is python2 version.
+
 def FizzBuzzWhizz(args):
     """args[0] = Fizz, Buzz, Whizz
         args[1]= 3, 5, 7"""
