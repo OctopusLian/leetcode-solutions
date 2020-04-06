@@ -1,5 +1,10 @@
 package main
 
+import (
+	"strconv"
+	"fmt"
+)
+
 type Graphmain struct {
 	var map [][]int = { 
             {-1, 5, -1, 5, 7}, 
@@ -11,7 +16,13 @@ type Graphmain struct {
 }
 
 func (gm *Graphmain)dfs(end string,path string,maxLength int) {
+	if (len(path) - 1 > maxLength) {
+		return
+	}
 	
+	if (len(path) > 1 && ath.endsWith(end)) {
+		fmt.Println(path + ", "+strconv.Itoa(len(path)))
+	}
 }
 
 
