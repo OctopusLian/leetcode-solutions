@@ -10,6 +10,10 @@ type Graphmain struct {
     }
 }
 
+func (gm *Graphmain)dfs(end string,path string,maxLength int) {
+	
+}
+
 
 
 func main() {
