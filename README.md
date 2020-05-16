@@ -6,9 +6,12 @@
 - [LeetCode](https://leetcode.com/zoctopus/)
 
 
-## 有关面试的资料  
+## 有关面试和刷题的资料  
 
 - [CS-Notes](https://cyc2018.github.io/CS-Notes/#/)  
+- [LeetCodeAnimation ](https://github.com/MisterBooo/LeetCodeAnimation)  
+- [cpp-interview](https://interview.huihut.com/#/)  
+- [interview](https://github.com/huihut/interview)  
 
 ## 如何参与贡献  
 
