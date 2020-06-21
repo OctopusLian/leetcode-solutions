@@ -13,6 +13,11 @@
 - [cpp-interview](https://interview.huihut.com/#/)  
 - [interview](https://github.com/huihut/interview)  
 
+## 个人题解  
+
+- [LeetCode题解](https://octopuslian.github.io/categories/LeetCode%E9%A2%98%E8%A7%A3/)  
+- [LeetCode-剑指offer题解](https://octopuslian.github.io/categories/LeetCode-%E5%89%91%E6%8C%87offer%E9%A2%98%E8%A7%A3/)  
+
 ## 如何参与贡献  
 
 - 1，首先fork本项目  
