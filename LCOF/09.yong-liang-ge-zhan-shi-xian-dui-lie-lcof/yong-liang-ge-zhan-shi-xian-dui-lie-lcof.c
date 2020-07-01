@@ -1,3 +1,5 @@
+//s1只进不出，入栈=入队；s2只出不进，出栈=出队。
+
 typedef struct {
     int len;
     int top1;
