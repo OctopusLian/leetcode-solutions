@@ -12,6 +12,7 @@
 - [LeetCodeAnimation ](https://github.com/MisterBooo/LeetCodeAnimation)  
 - [cpp-interview](https://interview.huihut.com/#/)  
 - [interview](https://github.com/huihut/interview)  
+- [unknown-Algorithm Notes](https://mnmunknown.gitbooks.io/algorithm-notes/content/)  
 
 ## 个人题解  
 
