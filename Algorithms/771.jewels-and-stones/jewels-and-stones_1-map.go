@@ -1,4 +1,5 @@
 func numJewelsInStones(J string, S string) int {
+    //解法1，map
     jewels := make(map[rune]bool)
     for _, j := range J {
         jewels[j] = true
