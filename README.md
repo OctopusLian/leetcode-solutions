@@ -7,12 +7,6 @@
 -->
 # LeetCode题解  
 
-## 个人账号  
-
-- [LeetCode-CN](https://leetcode-cn.com/u/zoctopus_zhang/)  
-- [LeetCode](https://leetcode.com/zoctopus/)
-
-
 ## 有关面试和刷题的资料  
 
 - [CS-Notes](https://cyc2018.github.io/CS-Notes/#/)  
@@ -22,19 +16,27 @@
 - [unknown-Algorithm Notes](https://mnmunknown.gitbooks.io/algorithm-notes/content/)  
 - https://labuladong.gitbook.io/algo/
 
-## 个人题解  
+## 目录说明  
 
-- [LeetCode题解](https://octopuslian.github.io/categories/LeetCode%E9%A2%98%E8%A7%A3/)  
-- [LeetCode-剑指offer题解](https://octopuslian.github.io/categories/LeetCode-%E5%89%91%E6%8C%87offer%E9%A2%98%E8%A7%A3/)  
-
-## 如何参与贡献  
-
-- 1，首先fork本项目  
-- 2，在您想贡献的题目文件夹下新建以`题目名_GithubID或昵称.语言类型`为格式的文件，例如:  
-如果我想贡献LeetCode中`Algorithms`模块下的`1.two-sum`问题的`Go`语言解法，则可以在本项目下创建`mkdir ./Algorithms/1.two-sum/`文件夹，新建`two-sum_zoctopus.go`这样的文件。  
-- 3，add-commit-push后再`merge`即可。  
-- 4，有疑惑可以提`issue`，标签为`QA`和与模块名字。  
-
-## 备注  
-
-- 本仓库为个人刷题面试记录汇总，会不定期的在`private`和`public`之间切换。  
+```sh
+.
+├── Algorithms   # leetcode算法题解
+├── Camp         # 算法训练营题解
+├── Company      # 企业题库
+├── Concurrency  # leetcode并发题解
+├── Database     # leetcode数据库题解
+├── DayQuestion  # 每日一答（停更）
+├── LCCI         # 《Cracking the Coding Interview》题解
+├── LCOF         # 《Sword to Offer》题解
+├── LCP          # 力扣杯
+├── lintcode     # LintCode题解
+├── nowcoder     # 牛客网题解
+├── LICENSE
+├── OODesign     # 面向对象设计题解
+├── OperatingSystem  # 操作系统题解
+├── README.md    # 仓库说明文档
+├── res          # 图片存放
+├── Shell        # Shell题解
+├── SystemDesign # 系统设计题解
+└── WeeklyContest # leetcode周赛
+```
