@@ -8,10 +8,27 @@
 - [interview](https://github.com/huihut/interview)  
 - [unknown-Algorithm Notes](https://mnmunknown.gitbooks.io/algorithm-notes/content/)  
 
-## 如何参与贡献  
+## 目录说明  
 
-- 1，首先fork本项目  
-- 2，在您想贡献的题目文件夹下新建以`题目名_GithubID或昵称.语言类型`为格式的文件，例如:  
-如果我想贡献LeetCode中`Algorithms`模块下的`1.two-sum`问题的`Go`语言解法，则可以在本项目下创建`mkdir ./Algorithms/1.two-sum/`文件夹，新建`two-sum_zoctopus.go`这样的文件。  
-- 3，add-commit-push后再`merge`即可。  
-- 4，有疑惑可以提`issue`，标签为`QA`和与模块名字。  
+```sh
+.
+├── Algorithms   # leetcode算法题解
+├── Camp         # 算法训练营题解
+├── Company      # 企业题库
+├── Concurrency  # leetcode并发题解
+├── Database     # leetcode数据库题解
+├── DayQuestion  # 每日一答（停更）
+├── LCCI         # 《Cracking the Coding Interview》题解
+├── LCOF         # 《Sword to Offer》题解
+├── LCP          # 力扣杯
+├── lintcode     # LintCode题解
+├── nowcoder     # 牛客网题解
+├── LICENSE
+├── OODesign     # 面向对象设计题解
+├── OperatingSystem  # 操作系统题解
+├── README.md    # 仓库说明文档
+├── res          # 图片存放
+├── Shell        # Shell题解
+├── SystemDesign # 系统设计题解
+└── WeeklyContest # leetcode周赛
+```
